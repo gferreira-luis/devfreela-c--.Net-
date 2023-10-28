@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\workspace\\ws-C#\\Curso C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj": {}
+    "C:\\Users\\User\\workspace\\ws-C#\\Curso_C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\workspace\\ws-C#\\Curso C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj": {
+    "C:\\Users\\User\\workspace\\ws-C#\\Curso_C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\workspace\\ws-C#\\Curso C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj",
+        "projectUniqueName": "C:\\Users\\User\\workspace\\ws-C#\\Curso_C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj",
         "projectName": "DevFreelaAPI",
-        "projectPath": "C:\\Users\\User\\workspace\\ws-C#\\Curso C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj",
+        "projectPath": "C:\\Users\\User\\workspace\\ws-C#\\Curso_C#\\DevFreela\\DevFreelaAPI\\DevFreelaAPI.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\workspace\\ws-C#\\Curso C#\\DevFreela\\DevFreelaAPI\\obj\\",
+        "outputPath": "C:\\Users\\User\\workspace\\ws-C#\\Curso_C#\\DevFreela\\DevFreelaAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
